@@ -1,0 +1,9 @@
+Flask==1.1.2
+flask_cors==3.0.10
+numpy==1.19.2
+pandas==1.4.2
+pymol==0.1.0
+scikit_learn==1.1.1
+tensorflow==2.3.0
+Werkzeug==1.0.1
+gunicorn==20.1.0
